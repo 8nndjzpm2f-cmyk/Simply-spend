@@ -1,0 +1,1 @@
+{"name":"simply-spend","version":"1.0.0","scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"tailwindcss":"^2.2.19","@supabase/supabase-js":"^1.28.1","lucide-react":"^0.5.1"}}
