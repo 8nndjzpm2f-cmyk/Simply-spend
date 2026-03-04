@@ -1,0 +1,11 @@
+# Personal files
+*.env
+*.local
+*.log
+
+# Node.js
+node_modules/
+
+# Operating System files
+.DS_Store
+Thumbs.db
